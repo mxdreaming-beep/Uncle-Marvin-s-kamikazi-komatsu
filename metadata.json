@@ -1,0 +1,6 @@
+{
+  "name": "Granby D355A",
+  "description": "Drive an armored Komatsu D355A bulldozer through a 3D recreation of Granby, Colorado and demolish town landmarks with physics-based destruction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
